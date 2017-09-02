@@ -47,6 +47,12 @@
 	body {
 		-webkit-text-size-adjust: none;
 	}
+	
+	img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+    }
 
 /* Box Model */
 
